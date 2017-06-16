@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Jarred Sanders</title>
+    <link>https://aridsand.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Jarred Sanders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jarred Sanders</copyright>
+    <lastBuildDate>Thu, 15 Jun 2017 16:32:34 -0500</lastBuildDate>
+    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2</title>
+      <link>https://aridsand.github.io/publication_types/2/</link>
+      <pubDate>Thu, 15 Jun 2017 16:32:34 -0500</pubDate>
+      
+      <guid>https://aridsand.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
