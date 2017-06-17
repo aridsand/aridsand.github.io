@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Jarred Sanders</title>
+    <link>https://aridsand.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on Jarred Sanders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jarred Sanders</copyright>
+    <lastBuildDate>Tue, 10 Jun 2014 16:10:36 -0500</lastBuildDate>
+    <atom:link href="/publication_types/5/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Male Mating Behaviour: The importance of waiting</title>
+      <link>https://aridsand.github.io/publication/wait/</link>
+      <pubDate>Tue, 10 Jun 2014 16:10:36 -0500</pubDate>
+      
+      <guid>https://aridsand.github.io/publication/wait/</guid>
+      <description>&lt;p&gt;This was an Insight article I wrote to accompany an &lt;em&gt;eLife&lt;/em&gt; paper from René García&amp;rsquo;s lab that identified the neural circuit in &lt;em&gt;C. elegans&lt;/em&gt; males responsible for regulating the post-mating refractory period that follows ejaculation.&lt;/p&gt;
+
+&lt;p&gt;Here is a link to the paper: &lt;a href=&#34;https://elifesciences.org/articles/02938/&#34;&gt;&lt;em&gt;Caenorhabditis elegans&lt;/em&gt; male sensory-motor neurons and dopaminergic support cells couple ejaculation and post-ejaculatory behaviors&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A * denotes first author contribution&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
